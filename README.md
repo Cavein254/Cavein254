@@ -119,3 +119,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavein254&layout=compact&&theme=radical)](https://github.com/Cavein254/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gautamkrishnar&theme=radical)](https://github.com/Cavein254/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cavein254&theme=onedark)](https://github.com/Cavein254/github-profile-trophy)
+
