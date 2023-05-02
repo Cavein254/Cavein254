@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on low level code using `c` and `rust`
 - 🌱 I’m currently learning blockchain technology
 - 💬 Ask me about fullstack web development
-- 📫 How to reach me: [twitter](https://twitter.com/JohnMuthua5), <a href="mailto:someone@example.com">Send email</a>
+- 📫 How to reach me: [twitter](https://twitter.com/JohnMuthua5), <a href="mailto:someone@example.com">Send Mail</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love music :collision:, good food, & amaizing company :busts_in_silhouette:
+- ⚡ Fun fact: I love music :collision:, good food :fries:, & amazing company :busts_in_silhouette:
 
 
 ## PROGRAMMING LANGUAGES
