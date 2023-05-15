@@ -3,7 +3,7 @@
 ## I am John Muthua :panda_face:
 
 
-- 🔭 I’m currently working on low level code using `c` and `rust`
+- 🔭 Actively pursuing new job opportunities
 - 🌱 I’m currently learning blockchain technology
 - 💬 Ask me about fullstack web development
 - 📫 How to reach me: [twitter](https://twitter.com/JohnMuthua5), <a href="mailto:someone@example.com">Send Mail</a>
