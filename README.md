@@ -119,7 +119,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![John Muthua GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavein254&show_icons=true&theme=radical)
+[John Muthua GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavein254&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavein254&theme=radical)](https://github.com/Cavein254/github-readme-stats)
 
