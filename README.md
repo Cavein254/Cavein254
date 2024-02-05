@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Cavein254&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ### Hi there 👋
 
 ## I am John Muthua :panda_face:
@@ -125,5 +124,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavein254&theme=radical)](https://github.com/Cavein254/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavein254&layout=compact&&theme=radical)](https://github.com/Cavein254/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=Cavein254&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
