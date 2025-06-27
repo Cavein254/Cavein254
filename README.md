@@ -5,7 +5,7 @@
 
 - 🔭 Actively pursuing new job opportunities
 - 🌱 I’m currently learning blockchain technology
-- 💬 Ask me about fullstack web development and conplicated finance stuff 🙈
+- 💬 Ask me about fullstack web development and complex finance stuff 🙈
 - 📫 How to reach me: [twitter](https://twitter.com/JohnMuthua5), <a href="mailto:muthuahjohn@gmail.com">Send Mail</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music :collision:, good food :fries:, & amazing company :busts_in_silhouette:
