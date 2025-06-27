@@ -5,8 +5,8 @@
 
 - 🔭 Actively pursuing new job opportunities
 - 🌱 I’m currently learning blockchain technology
-- 💬 Ask me about fullstack web development
-- 📫 How to reach me: [twitter](https://twitter.com/JohnMuthua5), <a href="mailto:someone@example.com">Send Mail</a>
+- 💬 Ask me about fullstack web development and conplicated finance stuff 🙈
+- 📫 How to reach me: [twitter](https://twitter.com/JohnMuthua5), <a href="mailto:muthuahjohn@gmail.com">Send Mail</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music :collision:, good food :fries:, & amazing company :busts_in_silhouette:
 
@@ -43,11 +43,12 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+
 
 ### Working Knowledge
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 ---
 
